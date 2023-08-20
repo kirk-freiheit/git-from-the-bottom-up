@@ -15,11 +15,11 @@
 
 # The Index
 
-- (Meet the Middle Man)[1-meet-the-middle-man.md]
-- (Taking the Index Further)[2-taking-the-index-further]
+- [Meet the Middle Man](1-meet-the-middle-man.md)
+- [Taking the Index Further](2-taking-the-index-further)
 
 # Reset
 
-- (To Reset or Not to Reset)[1-to-reset-or-not-to-reset.md]
-- (Doing a Mixed Reset)[2-doing-a-mixed-reset.md]
-- (Doing a Soft Reset)[3-doing-a-soft-reset.md]
+- [To Reset or Not to Reset](1-to-reset-or-not-to-reset.md)
+- [oing a Mixed Reset](2-doing-a-mixed-reset.md)
+- [Doing a Soft Reset](3-doing-a-soft-reset.md)
