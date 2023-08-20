@@ -26,7 +26,7 @@ Before we dive in, there are a few terms which should be mentioned first, since 
 
 The usual flow of events is this: After creating a repository, your work is done in the working tree. Once your work reaches a significant point — the completion of a bug, the end of the working day, a moment when everything compiles — you add your changes successively to the index. Once the index contains everything you intend to commit, you record its content in the repository. Here’s a simple diagram that shows a typical project’s life-cycle:
 
-![Project Lifecycle](images/lifecycle.png)
+![Project Lifecycle](src/images/lifecycle.png)
 
 With this basic picture in mind, the following sections shall attempt to describe how each of these different entities is important to the operation of Git.
 

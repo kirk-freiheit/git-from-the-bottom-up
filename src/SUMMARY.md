@@ -1,6 +1,6 @@
 # Git From The Ground Up
 
-[Introduction](../index.md)
+[Introduction](index.md)
 
 # Repository
 
