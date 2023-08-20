@@ -21,7 +21,7 @@
 # Reset
 
 - [To Reset or Not to Reset](3-Reset/1-to-reset-or-not-to-reset.md)
-- [oing a Mixed Reset](3-Reset/2-doing-a-mixed-reset.md)
+- [Doing a Mixed Reset](3-Reset/2-doing-a-mixed-reset.md)
 - [Doing a Soft Reset](3-Reset/3-doing-a-soft-reset.md)
 - [Doing a Hard Reset](3-Reset/4-doing-a-hard-reset.md)
 
